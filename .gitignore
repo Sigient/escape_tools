@@ -1,0 +1,15 @@
+mkmf.log
+*.tar.gz
+
+/lib/*.so
+
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/target

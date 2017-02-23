@@ -1,0 +1,15 @@
+[package]
+name = "escape_tools"
+version = "0.1.0"
+authors = ["Michael Coyne <mikeycgto@gmail.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+ruru = "0.9"
+urlencoding = "0.2"
+marksman_escape = "0.1"
+
+[package.metadata.thermite]
+github_releases = true
